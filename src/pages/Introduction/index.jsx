@@ -9,7 +9,7 @@ const Introduction = () => {
         className="img-fluid mt-2 shadow-lg"
         alt="loading"
       />
-      <div className="content container py-4 mt-5">
+      <div className=" container  py-4 mt-5">
         <p className="fw-bold">
           राष्ट्रियता, लोकतन्त्र र समाजवादका लागि सात दशकदेखि निरन्तर समर्पित
           नेपाली कांग्रेस।
