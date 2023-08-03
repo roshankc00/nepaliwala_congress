@@ -1,0 +1,12 @@
+.bottom-footer{
+    padding: 10px;
+    color: white;
+
+}
+.footer-main{
+    background-image: url('/public/images/footer-backgound.png');
+    border-top-left-radius: 100px;
+}
+.upper-footer{
+    color: white;
+}
