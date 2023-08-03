@@ -1,5 +1,9 @@
 .image_bar{
     background: linear-gradient(0deg,#0a510f,#cbefbf);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .imagebar-image-card img{
     height: 150px;

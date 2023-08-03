@@ -1,3 +1,7 @@
 .navbar{
     white-space: nowrap !important;
 }
+.navbar-brand{
+    width: 150px;
+    height: 100px;
+}
