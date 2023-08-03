@@ -5,7 +5,7 @@ const Introduction = () => {
     <div className="mt-4">
       <Helmet title="Intrroduction"/>
       <img
-        src="public/images/parichaya.jpg"
+        src="/images/parichaya.jpg"
         className="img-fluid mt-2 shadow-lg"
         alt="loading"
       />

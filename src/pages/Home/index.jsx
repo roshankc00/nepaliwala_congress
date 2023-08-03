@@ -13,7 +13,7 @@ const Home = () => {
         </ol>
         <div className="carousel-inner">
             <div className="carousel-item active">
-                <img src="public/images/slider-2.jpeg" alt="..." className="h-50 w-100"/>
+                <img src="/images/slider-2.jpeg" alt="..." className="h-50 w-100"/>
                 <div className="carousel-caption d-none d-md-block">
                     <h2>Welcome to iCoder</h2>
                     <p>Technology News, Development and Trends</p>
@@ -23,7 +23,7 @@ const Home = () => {
                 </div>
             </div>
             <div className="carousel-item">
-                <img src="public/images/slider-2.jpeg" className="d-block w-100" alt="..."/>
+                <img src="/images/slider-2.jpeg" className="d-block w-100" alt="..."/>
                 <div className="carousel-caption d-none d-md-block">
                     <h2>The Best Coding Blog</h2>
                     <p>Technology News, Development and Trends</p>
@@ -33,7 +33,7 @@ const Home = () => {
                 </div>
             </div>
             <div className="carousel-item">
-                <img src="public/images/slider-2.jpeg" className="h-50" alt="..."/>
+                <img src="/images/slider-2.jpeg" className="h-50" alt="..."/>
                 <div className="carousel-caption d-none d-md-block">
                     <h2>Award winning Blog</h2>
                     <p>Technology News, Development and Trends</p>
@@ -57,7 +57,7 @@ const Home = () => {
             {/* middle one */}
             <div className="container m-auto row gap-2 p-5 mt-5 w-full">
                 <div className="col-12 col-lg-5">
-                <img src="public/images/pm.jpg" className="img-fluid" alt="loading" />
+                <img src="/images/pm.jpg" className="img-fluid" alt="loading" />
                 </div>
                 <div className="content col-12 col-lg-6 ">
                     <div className="title p-4 fw-bold" >

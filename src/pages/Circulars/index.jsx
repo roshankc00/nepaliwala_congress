@@ -7,7 +7,7 @@ const Circulars = () => {
         <Helmet title="circulars mx-auto"/>
         <div className="container row m-auto mt-4 bg-info-subtle p-4">
             <div className="col-12 col-md-5 bg-info-subtle">
-                <img src="public/images/stationary/munamadan_image.jpg" alt="loading"/>
+                <img src="/images/stationary/munamadan_image.jpg" alt="loading"/>
             </div>
             <div className=" col-12 col-md-5 bg-info-subtle">
                 <p>बुधबार २४, भाद्र २०७७</p>
@@ -18,7 +18,7 @@ const Circulars = () => {
         </div>
         <div className="container row m-auto mt-4 bg-info-subtle p-4">
             <div className="col-12 col-md-5 bg-info-subtle">
-                <img src="public/images/stationary/02.jpg" alt="loading"/>
+                <img src="/images/stationary/02.jpg" alt="loading"/>
             </div>
             <div className="col-12 col-md-5 bg-info-subtle">
                 <p>बुधबार २४, भाद्र २०७७</p>
@@ -30,7 +30,7 @@ const Circulars = () => {
         </div>
         <div className="container row m-auto mt-4 bg-info-subtle p-4">
             <div className=" col-12 col-md-5 bg-info-subtle">
-                <img src="public/images/stationary/no3.jpg" alt="loading"/>
+                <img src="/images/stationary/no3.jpg" alt="loading"/>
             </div>
             <div className="col-12 col-md-5 bg-info-subtle">
                 <p>बुधबार २४, भाद्र २०७७</p>
