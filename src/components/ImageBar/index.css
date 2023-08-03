@@ -22,3 +22,12 @@
     color: white;
     white-space: nowrap;
 }
+
+
+@media only screen and (max-width: 607px) {
+    .wrapperwala{
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+  }

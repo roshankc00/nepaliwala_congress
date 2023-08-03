@@ -14,42 +14,26 @@ const Home = () => {
         <div className="carousel-inner">
             <div className="carousel-item active">
                 <img src="/images/slider-2.jpeg" alt="..." className="h-50 w-100"/>
-                <div className="carousel-caption d-none d-md-block">
-                    <h2>Welcome to iCoder</h2>
-                    <p>Technology News, Development and Trends</p>
-                    <button className="btn btn-danger">Technology</button>
-                    <button className="btn btn-primary">Web Development</button>
-                    <button className="btn btn-success">Tech Fun</button>
-                </div>
+              
             </div>
             <div className="carousel-item">
                 <img src="/images/slider-2.jpeg" className="d-block w-100" alt="..."/>
                 <div className="carousel-caption d-none d-md-block">
-                    <h2>The Best Coding Blog</h2>
-                    <p>Technology News, Development and Trends</p>
-                    <button className="btn btn-danger">Technology</button>
-                    <button className="btn btn-primary">Web Development</button>
-                    <button className="btn btn-success">Tech Fun</button>
+             
                 </div>
             </div>
             <div className="carousel-item">
                 <img src="/images/slider-2.jpeg" className="h-50" alt="..."/>
                 <div className="carousel-caption d-none d-md-block">
-                    <h2>Award winning Blog</h2>
-                    <p>Technology News, Development and Trends</p>
-                    <button className="btn btn-danger">Technology</button>
-                    <button className="btn btn-primary">Web Development</button>
-                    <button className="btn btn-success">Tech Fun</button>
+                
                 </div>
             </div>
         </div>
         <a className="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
             <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span className="sr-only">Previous</span>
         </a>
         <a className="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
             <span className="carousel-control-next-icon" aria-hidden="true"></span>
-            <span className="sr-only">Next</span>
         </a>
     </div>
     <ImageBar/>
